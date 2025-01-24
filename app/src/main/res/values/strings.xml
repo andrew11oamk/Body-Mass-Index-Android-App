@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Body mass index</string>
+    <string name="body_mass_index_is">"Body mass index is "</string>
+</resources>
